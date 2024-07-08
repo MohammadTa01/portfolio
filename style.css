@@ -398,7 +398,7 @@ background-attachment: fixed;
         align-items: center;
         background:url(https://raw.githubusercontent.com/MohammadTa01/portfolio/main/images/bgS.jpg) no-repeat;
         background-size: auto 100%;
-        background-position:65% 12% ;
+        background-position:65% 5% ;
     background-attachment: fixed;
     
     }
@@ -448,6 +448,10 @@ background-attachment: fixed;
 
 
 @media(max-width:390px){
+     body{
+        font-size: 10px;
+    }
+    
     .skills .card{
       
     width: 150px  ;  /* test for responsive*/
@@ -461,10 +465,25 @@ background-attachment: fixed;
     align-items: center;
     background:url(https://raw.githubusercontent.com/MohammadTa01/portfolio/main/images/bgS.jpg) no-repeat;
     background-size: auto 100%;
-    background-position:45% 12% ;
+    background-position:75% 0% ;
+background-attachment: fixed;
+
+}
+@media(max-width:190px){
+
+.main{
+        
+    width: 100%;
+    min-height: 100vh;
+    display: flex;
+    align-items: center;
+    background:url(/images/bgXs.jpg) no-repeat;
+    background-size: auto 100%;
+    background-position:95% 0% ;
 background-attachment: fixed;
 
 }
 
+}
 }
 
