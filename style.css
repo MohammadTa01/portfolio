@@ -396,7 +396,7 @@ background-attachment: fixed;
         min-height: 100vh;
         display: flex;
         align-items: center;
-        background:url() no-repeat;
+        background:url(https://raw.githubusercontent.com/MohammadTa01/portfolio/main/images/bgS.jpg) no-repeat;
         background-size: auto 100%;
         background-position:65% 5% ;
     background-attachment: fixed;
