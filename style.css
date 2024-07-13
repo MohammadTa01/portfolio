@@ -68,7 +68,7 @@ section{
     background:url(https://raw.githubusercontent.com/MohammadTa01/portfolio/main/images/bgl.jpg) no-repeat;
 background-size: cover;
 background-position: center;
-background-attachment: fixed;
+/* background-attachment: fixed; */
 
 }
 
@@ -396,10 +396,7 @@ background-attachment: fixed;
         background:url(https://raw.githubusercontent.com/MohammadTa01/portfolio/main/images/bgS.jpg) no-repeat;
         background-size: auto 100%;
         background-position:65% 5% ;
-            -webkit-background-size: auto 100%;
-        -webkit-background-position: 65% 0%;
-    background-attachment: fixed;
-    
+          
     }
     .logo{
         font-weight: 700;
@@ -451,9 +448,7 @@ background-attachment: fixed;
     background:url(https://raw.githubusercontent.com/MohammadTa01/portfolio/main/images/bgXs.jpg) no-repeat;
     background-size: auto 100%;
     background-position:75% 0% ;
-        -webkit-background-size: auto 100%;
-        -webkit-background-position: 75% 0%;
-background-attachment: fixed;
+
 
 }
 
